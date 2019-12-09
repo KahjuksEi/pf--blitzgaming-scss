@@ -26,7 +26,8 @@ body {
 .S1 {
   height: 947px;
   background-image: url("img/bg1.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat; 
+  background-position: center;}
 
 .container {
   max-width: 1284px;
